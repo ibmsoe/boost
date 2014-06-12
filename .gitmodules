@@ -464,21 +464,21 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "core"]
 	path = libs/core
-	url = ../core.git
+	url = https://github.com/boostorg/core.git
 	fetchRecurseSubmodules = on-demand
 [submodule "throw_exception"]
 	path = libs/throw_exception
-	url = ../throw_exception.git
+	url = https://github.com/boostorg/throw_exception.git
 	fetchRecurseSubmodules = on-demand
 [submodule "winapi"]
 	path = libs/winapi
-	url = ../winapi.git
+	url = https://github.com/boostorg/winapi.git
 	fetchRecurseSubmodules = on-demand
 [submodule "boostdep"]
 	path = tools/boostdep
-	url = ../boostdep.git
+	url = https://github.com/boostorg/boostdep.git
 	fetchRecurseSubmodules = on-demand
 [submodule "lexical_cast"]
 	path = libs/lexical_cast
-	url = ../lexical_cast.git
+	url = https://github.com/boostorg/lexical_cast.git
 	fetchRecurseSubmodules = on-demand
