@@ -28,6 +28,7 @@ config                John Maddock <john -at- johnmaddock.co.uk>
 container             Ion Gaztanaga <igaztanaga -at- gmail.com>
 context               Oliver Kowalke <oliver.kowalke -at- gmail.com>
 conversion            Antony Polukhin <antoshkka -at- gmail.com>
+core                  Peter Dimov <pdimov -at- pdimov.com>, Glen Fernandes <glenfe -at- live.com>, Andrey Semashev <andrey.semashev -at- gmail.com>
 coroutine             Oliver Kowalke <oliver.kowalke -at- gmail.com>
 crc                   Daryle Walker <darylew -at- hotmail.com>
 date_time             Jeff Garland <jeff -at- crystalclearsoftware.com>
@@ -105,6 +106,7 @@ statechart            Andreas Huber <ahd6974-boostorg -at- yahoo.com>
 static_assert         John Maddock <john -at- johnmaddock.co.uk>
 test                  Gennadiy Rozental <gennadiy.rozental -at- thomson.com>
 thread                Anthony Williams <anthony -at- justsoftwaresolutions.co.uk>, Roland Schwarz <roland.schwarz -at- chello.at>, Vicente J. Botet Escriba <vicente.botet -at- wanadoo.fr>
+throw_exception       Emil Dotchevski <emil -at- revergestudios.com>
 timer                 Beman Dawes <bdawes -at- acm.org>
 tokenizer             John R. Bandela <jbandela -at- ufl.edu>
 tr1                   John Maddock <john -at- johnmaddock.co.uk>

@@ -67,6 +67,8 @@ run-tests libs :
     container/test              # test-suite container_test
     context/test                # test-suite context
     conversion/test             # test-suite conversion
+    core/test                   # test-suite core
+    core/test/swap              # test-suite core/swap
     coroutine/test              # test-suite coroutine
     crc/test                    # test-suite crc
     date_time/test              # test-suite date_time
@@ -101,6 +103,7 @@ run-tests libs :
     iostreams/test              # test-suite iostreams
     iterator/test               # test-suite iterator
     lambda/test                 # test-suite lambda
+    lexical_cast/test           # test-suite lexical_cast
     local_function/test         # test-suite local_function
     locale/test                 # test-suite locale
     log/test                    # test-suite log
@@ -151,6 +154,7 @@ run-tests libs :
     system/test                 # test-suite system
     test/test                   # test-suite test
     thread/test                 # test-suite thread
+    throw_exception/test        # test-suite throw_exception
     timer/test                  # test-suite timer
     tokenizer/test              # test-suite tokenizer
     tr1/test                    # test-suite tr1
@@ -165,7 +169,6 @@ run-tests libs :
     unordered/test/exception    # test-suite unordered-exception
     utility/enable_if/test      # test-suite utility/enable_if
     utility/identity_type/test  # test-suite utility/identity_type
-    utility/swap/test           # test-suite utility/swap
     utility/test                # test-suite utility
     uuid/test                   # test-suite uuid
     variant/test                # test-suite variant
