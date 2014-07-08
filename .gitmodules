@@ -380,7 +380,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "chrono"]
 	path = libs/chrono
-	url = https://github.com/boostorg/chrono.git
+	url = https://github.com/ibmsoe/chrono.git
 	fetchRecurseSubmodules = on-demand
 [submodule "polygon"]
 	path = libs/polygon
