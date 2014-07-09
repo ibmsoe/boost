@@ -12,7 +12,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "smart_ptr"]
 	path = libs/smart_ptr
-	url = https://github.com/boostorg/smart_ptr.git
+	url = https://github.com/ibmsoe/smart_ptr.git
 	fetchRecurseSubmodules = on-demand
 [submodule "parameter"]
 	path = libs/parameter
@@ -152,7 +152,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "lambda"]
 	path = libs/lambda
-	url = https://github.com/boostorg/lambda.git
+	url = https://github.com/ibmsoe/lambda.git
 	fetchRecurseSubmodules = on-demand
 [submodule "mpl"]
 	path = libs/mpl
