@@ -328,7 +328,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "asio"]
 	path = libs/asio
-	url = https://github.com/boostorg/asio.git
+	url = https://github.com/ibmsoe/asio.git
 	fetchRecurseSubmodules = on-demand
 [submodule "uuid"]
 	path = libs/uuid
