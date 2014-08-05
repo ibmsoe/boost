@@ -136,7 +136,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "date_time"]
 	path = libs/date_time
-	url = https://github.com/boostorg/date_time.git
+	url = https://github.com/ibmsoe/date_time.git
 	fetchRecurseSubmodules = on-demand
 [submodule "logic"]
 	path = libs/logic
@@ -256,7 +256,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "build"]
 	path = tools/build
-	url = https://github.com/boostorg/build.git
+	url = https://github.com/ibmsoe/build.git
 	fetchRecurseSubmodules = on-demand
 [submodule "quickbook"]
 	path = tools/quickbook
@@ -436,7 +436,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "context"]
 	path = libs/context
-	url = https://github.com/boostorg/context.git
+	url = https://github.com/ibmsoe/context.git
 	fetchRecurseSubmodules = on-demand
 [submodule "type_erasure"]
 	path = libs/type_erasure
